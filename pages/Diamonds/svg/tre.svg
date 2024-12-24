@@ -1,0 +1,25 @@
+<svg width="159.000000" height="102.000000" viewBox="0 0 159 102" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip404_2642">
+			<rect id="carat" rx="0.000000" width="158.000000" height="101.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="carat" rx="0.000000" width="158.000000" height="101.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip404_2642)">
+		<path id="Linie 374" d="M2.3 29.95L156.69 29.95" stroke="#D9DADA" stroke-opacity="1.000000" stroke-width="1.000000" stroke-linecap="round"/>
+		<path id="Pfad 4644" d="M26.85 7.71L2.3 29.78L79.42 99.91L156.69 29.78L131.98 7.71L79.12 7.71L26.85 7.71Z" stroke="#1A1A18" stroke-opacity="1.000000" stroke-width="2.000000"/>
+		<path id="Pfad 4645" d="M79.49 1.54C64.82 1.52 50.42 5.48 37.81 13L55.36 40.21C62.71 36 71.03 33.78 79.49 33.78C87.96 33.78 96.28 36 103.62 40.21L121.18 13C108.57 5.48 94.16 1.52 79.49 1.54Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Pfad 4645" d="M37.81 13L55.36 40.21C62.71 36 71.03 33.78 79.49 33.78C87.96 33.78 96.28 36 103.62 40.21L121.18 13C108.57 5.48 94.16 1.52 79.49 1.54C64.82 1.52 50.42 5.48 37.81 13Z" stroke="#A04F55" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Linie 375" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Linie 375" d="M69.87 33.78L63.46 17.73" stroke="#A04F55" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Linie 376" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Linie 376" d="M58.09 4.39L60.79 11.56" stroke="#A04F55" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Linie 377" d="" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Linie 377" d="M99.56 5.45L96.47 13.18" stroke="#A04F55" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Pfad 4646" d="M79.49 0.81L70.22 0.81" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Pfad 4646" d="M79.49 0.81L79.49 10.08" stroke="#A04F55" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+	</g>
+</svg>
